@@ -4,7 +4,7 @@ A Dart To Javascript Converter For GDevelop
 The Dart And Javascript Syntax Is Very Similar (Which I Realized Quickly When Programming This). Although, there is a difference with how variables are established, which I programmed.
 
 To Build:
-Use the make tool that comes with your c++ compiler to build the Makefile. (Will release a binary soon).
+Use the make tool that comes with your c++ compiler (I would recommend clang) to build the Makefile. (Will release a binary soon).
 
 So far:
 I have programmed a conversion from dart variables to javascript variables.
